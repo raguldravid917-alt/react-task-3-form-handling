@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-task3-form/static/css/main.2d291196.css",
-    "main.js": "/react-task3-form/static/js/main.94c628d0.js",
-    "index.html": "/react-task3-form/index.html",
-    "main.2d291196.css.map": "/react-task3-form/static/css/main.2d291196.css.map",
-    "main.94c628d0.js.map": "/react-task3-form/static/js/main.94c628d0.js.map"
+    "main.css": "/react-task-3-form-handling/static/css/main.2d291196.css",
+    "main.js": "/react-task-3-form-handling/static/js/main.94c628d0.js",
+    "index.html": "/react-task-3-form-handling/index.html",
+    "main.2d291196.css.map": "/react-task-3-form-handling/static/css/main.2d291196.css.map",
+    "main.94c628d0.js.map": "/react-task-3-form-handling/static/js/main.94c628d0.js.map"
   },
   "entrypoints": [
     "static/css/main.2d291196.css",
